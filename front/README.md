@@ -1,3 +1,4 @@
-# frontend setup run
+## Run setup frontend
 
-# Run ```install.bat``` and next ```run.bat```
+1. Run ```install.bat```
+1. Run ```run.bat```
