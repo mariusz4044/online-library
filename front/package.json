@@ -1,0 +1,30 @@
+{
+  "name": "front",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@open-wc/webpack-import-meta-loader": "^0.4.7",
+    "core-js": "^3.8.3",
+    "epubjs": "^0.3.93",
+    "humanize-duration": "^3.27.3",
+    "node-polyfill-webpack-plugin": "^2.0.1",
+    "sharp": "^0.31.1",
+    "stream-browserify": "^3.0.0",
+    "style-loader": "^3.3.1",
+    "vue": "^3.2.45",
+    "vue-epub-reader": "^0.0.10",
+    "vue-number-animation": "^1.1.2",
+    "vue-router": "^4.0.3",
+    "vue-sweetalert2": "^5.0.5"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "file-loader": "^6.2.0"
+  }
+}
