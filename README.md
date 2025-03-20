@@ -1,3 +1,8 @@
+## Tech Stack
+- Backend: Nodejs, MongoDb, Express, Express-session
+- Frontend: Vue
+
+
 ## Online library
 
 - Readers profiles
